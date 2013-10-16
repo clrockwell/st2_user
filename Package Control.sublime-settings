@@ -1,0 +1,11 @@
+{
+	"installed_packages":
+	[
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SublimeLinter",
+		"SublimeOnSaveBuild",
+		"Tag"
+	]
+}
